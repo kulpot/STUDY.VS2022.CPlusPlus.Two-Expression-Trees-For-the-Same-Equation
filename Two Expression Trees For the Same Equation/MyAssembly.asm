@@ -18,7 +18,9 @@ doit proc
 	ret
 
 	; ---- Expression Trees -----
-	; 7 * 2 + 5 * 6		; result of expression is 44
+	; 7 * 2 + 5 * 6		
+	; result of expression in scientific calculator is 44
+	; result in standard calculator is 114
 
 
 	ret
