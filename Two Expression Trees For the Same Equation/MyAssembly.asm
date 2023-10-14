@@ -12,7 +12,8 @@ doit proc
 	
 	; ---- Two Expression Trees For the Same Equation -----
 	; 3 * 4 + 6 / 2 + 2 * 5
-
+	; 55 is the result for standard calc
+	; 25 is the result for scientific calc
 
 
 	ret
